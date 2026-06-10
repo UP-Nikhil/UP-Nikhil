@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nikhil Pratap<br><br>🎓 Computer Science Student<br>💻 Java Developer<br>📚 Solving DSA Problems on LeetCode<br>🌱 Currently Learning Spring Boot<br>🚀 Aspiring Software Engineer
+Hi 👋, I'm Nikhil Pratap<br><br>🎓 Computer Science Student in KNIT Sultanpur <br>💻 Java Developer<br>📚 Solving DSA Problems on LeetCode<br>🌱 Currently Learning Spring Boot<br>🚀 Aspiring Software Engineer
 
 
 ## 🌐 Socials:
