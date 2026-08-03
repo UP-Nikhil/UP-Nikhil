@@ -21,7 +21,6 @@
 ![](https://streak-stats.demolab.com/?user=UP-Nikhil&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=UP-Nikhil&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UP-Nikhil&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
